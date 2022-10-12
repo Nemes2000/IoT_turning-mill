@@ -1,7 +1,10 @@
 # IoT_turning-mill
 
-## Find the code
-  - (not started yet)
+## Navigatiom
+  - programs: test and final codes
+  - about_fft: source regarding the operation of the fft, and some code from the internet
+  - communications: sources about used communication protocols
+  - sensors: sources about used sensores
  
 ## Find the documentation
   - (not started yet)
