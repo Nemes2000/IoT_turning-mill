@@ -1,13 +1,15 @@
 # IoT_turning-mill
 
 ## Navigatiom
-  - programs: test and final codes
   - about_fft: source regarding the operation of the fft, and some code from the internet
-  - communications: sources about used communication protocols
+  - codes: test and final codes
+  - documentacion: the documentation of the project
+  - sensor_communications: sources about used communication protocols
+  - sensor_wiring_diagramms: pictures from the sensors' and esps' wiring
   - sensors: sources about used sensores
  
 ## Find the documentation
-  - (not started yet)
+  - In the documentation folder
 
 ## Specification
 
