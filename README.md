@@ -1,6 +1,6 @@
 # IoT_turning-mill
 
-## Navigatiom
+## Navigation
   - about_fft: source regarding the operation of the fft, and some code from the internet
   - codes: test and final codes
   - documentacion: the documentation of the project
